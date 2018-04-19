@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="ac0e9bb1dba95700ba7df4a51f9619b2" sys_domain="global" table="u_imp_tmpl_x_snc_ig_inspectio_inspection_groups" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_group_name</element>
+            <position>0</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-04-19 14:38:31</sys_created_on>
+            <sys_id>240e9bb1dba95700ba7df4a51f9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_snc_ig_inspectio_inspection_groups" sys_domain="global" view="Default view">ac0e9bb1dba95700ba7df4a51f9619b2</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-04-19 14:38:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>template_import_log.message</element>
+            <position>1</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-04-19 14:38:31</sys_created_on>
+            <sys_id>2c0e9bb1dba95700ba7df4a51f9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_snc_ig_inspectio_inspection_groups" sys_domain="global" view="Default view">ac0e9bb1dba95700ba7df4a51f9619b2</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-04-19 14:38:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>u_imp_tmpl_x_snc_ig_inspectio_inspection_groups</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-04-19 14:38:31</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac0e9bb1dba95700ba7df4a51f9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_imp_tmpl_x_snc_ig_inspectio_inspection_groups</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IG-Inspection Manager" source="x_snc_ig_inspectio">17f88b3ddb295700ba7df4a51f96198e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="IG-Inspection Manager">17f88b3ddb295700ba7df4a51f96198e</sys_scope>
+            <sys_update_name>sys_ui_section_ac0e9bb1dba95700ba7df4a51f9619b2</sys_update_name>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-04-19 14:38:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

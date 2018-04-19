@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>99ae57f1dba95700ba7df4a51f961926</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_ig_inspectio_inspection_areas">
+    <x_snc_ig_inspectio_inspection_areas action="INSERT_OR_UPDATE">
+        <group_name display_value="MILITARY PROGRAMS GROUP">5e0edbb1dba95700ba7df4a51f9619b7</group_name>
+        <number>INAREAS0001052</number>
+        <sub_group_name>Voting Assistance Program</sub_group_name>
+        <sys_class_name>x_snc_ig_inspectio_inspection_areas</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-04-19 14:41:18</sys_created_on>
+        <sys_id>99ae57f1dba95700ba7df4a51f961926</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-04-19 14:41:18</sys_updated_on>
+    </x_snc_ig_inspectio_inspection_areas>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-04-19 14:47:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1020eb35dba95700ba7df4a51f9619e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Voting Assistance Program</sys_name>
+        <sys_package display_value="IG-Inspection Manager" source="x_snc_ig_inspectio">17f88b3ddb295700ba7df4a51f96198e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IG-Inspection Manager">17f88b3ddb295700ba7df4a51f96198e</sys_scope>
+        <sys_update_name>sys_metadata_link_1020eb35dba95700ba7df4a51f9619e2</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-04-19 14:47:47</sys_updated_on>
+        <tablename>x_snc_ig_inspectio_inspection_areas</tablename>
+    </sys_metadata_link>
+</record_update>

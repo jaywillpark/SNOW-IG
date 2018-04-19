@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Inspection Groups</name>
+        <order>100</order>
+        <roles>x_snc_ig_inspectio.inspection_groups_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-04-19 13:18:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>129b8771db695700ba7df4a51f961971</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>IG Inspection Management</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IG-Inspection Manager" source="x_snc_ig_inspectio">17f88b3ddb295700ba7df4a51f96198e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IG-Inspection Manager">17f88b3ddb295700ba7df4a51f96198e</sys_scope>
+        <sys_update_name>sys_app_application_129b8771db695700ba7df4a51f961971</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-04-19 14:14:25</sys_updated_on>
+        <title>IG Inspection Management</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f01ae3fddba95700ba7df4a51f961932</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_ig_inspectio_report_item_categories">
+    <x_snc_ig_inspectio_report_item_categories action="INSERT_OR_UPDATE">
+        <category_name>INPUT</category_name>
+        <number>REPCAT0001001</number>
+        <sys_class_name>x_snc_ig_inspectio_report_item_categories</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-04-19 15:31:19</sys_created_on>
+        <sys_id>f01ae3fddba95700ba7df4a51f961932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-04-19 15:31:19</sys_updated_on>
+    </x_snc_ig_inspectio_report_item_categories>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-04-19 17:05:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d7af7b75db2d5700ba7df4a51f9619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IG-Inspection Manager" source="x_snc_ig_inspectio">17f88b3ddb295700ba7df4a51f96198e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IG-Inspection Manager">17f88b3ddb295700ba7df4a51f96198e</sys_scope>
+        <sys_update_name>sys_metadata_link_d7af7b75db2d5700ba7df4a51f9619eb</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-04-19 17:05:37</sys_updated_on>
+        <tablename>x_snc_ig_inspectio_report_item_categorie</tablename>
+    </sys_metadata_link>
+</record_update>

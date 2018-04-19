@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Inspection Report Item" max_length="40" name="x_snc_ig_inspectio_inspection_report_item" type="collection">
+        <element label="Best Practices" max_length="5000" name="best_practices" type="string"/>
+        <element default="INPUT" label="Category" mandatory="true" max_length="32" name="category" reference="x_snc_ig_inspectio_report_item_categories" type="reference"/>
+        <element label="Findings" max_length="5000" name="findings" type="string"/>
+        <element label="Finding Count" max_length="40" name="finding_count" type="integer"/>
+        <element label="Functional Summary" max_length="5000" name="functional_summary" type="string"/>
+        <element label="Grade" max_length="32" name="grade" reference="x_snc_ig_inspectio_report_item_grade" type="reference"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Potential Best Practice Count" max_length="40" name="potential_best_practice_count" type="integer"/>
+        <element label="Recommendations" max_length="5000" name="recommendations" type="string"/>
+        <element label="Recommendation Count" max_length="40" name="recommendation_count" type="integer"/>
+        <element label="Report" mandatory="true" max_length="32" name="report" reference="x_snc_ig_inspectio_inspection_report" type="reference"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Inspection Area" max_length="150" name="title" reference="x_snc_ig_inspectio_inspection_areas" type="reference"/>
+        <index name="index">
+            <element name="grade"/>
+        </index>
+        <index name="index2">
+            <element name="report"/>
+        </index>
+        <index name="index3">
+            <element name="category"/>
+        </index>
     </element>
 </database>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Report Item Grade" max_length="40" name="x_snc_ig_inspectio_report_item_grade" type="collection">
+        <element label="Grade Description" max_length="400" name="grade_description" type="string"/>
+        <element display="true" label="Grade Name" mandatory="true" max_length="40" name="grade_name" type="string"/>
+        <element label="Grade Value" max_length="40" name="grade_value" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+    </element>
+</database>

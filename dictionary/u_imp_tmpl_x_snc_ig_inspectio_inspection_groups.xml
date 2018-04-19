@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element extends="sys_import_set_row" label="Imp Tmpl X Snc Ig Inspectio Inspection Groups" max_length="40" name="u_imp_tmpl_x_snc_ig_inspectio_inspection_groups" type="collection">
-        <element attributes="import_attribute_name=Group Name,edge_encryption_enabled=true" label="Group Name" max_length="300" name="u_group_name" type="string"/>
-    </element>
-</database>

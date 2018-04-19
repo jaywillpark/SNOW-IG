@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>2f043b79dbe95700ba7df4a51f9619c9</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_ig_inspectio_inspection_report_item">
+    <x_snc_ig_inspectio_inspection_report_item action="INSERT_OR_UPDATE">
+        <best_practices/>
+        <category display_value="INPUT">f01ae3fddba95700ba7df4a51f961932</category>
+        <finding_count/>
+        <findings/>
+        <functional_summary/>
+        <grade display_value="UNACCEPTABLE">41b92fbddba95700ba7df4a51f961948</grade>
+        <number>INRI0001005</number>
+        <potential_best_practice_count/>
+        <recommendation_count/>
+        <recommendations/>
+        <report display_value="FY18 IG Command Inspection Report -  Naval Supply Systems Command">16aaaffddba95700ba7df4a51f961933</report>
+        <sys_class_name>x_snc_ig_inspectio_inspection_report_item</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-04-19 16:15:19</sys_created_on>
+        <sys_id>2f043b79dbe95700ba7df4a51f9619c9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-04-19 16:23:21</sys_updated_on>
+        <title display_value="Freedom of Information Act">45ae57f1dba95700ba7df4a51f961907</title>
+    </x_snc_ig_inspectio_inspection_report_item>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-04-19 17:04:23</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>096f3775db2d5700ba7df4a51f961965</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IG-Inspection Manager" source="x_snc_ig_inspectio">17f88b3ddb295700ba7df4a51f96198e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IG-Inspection Manager">17f88b3ddb295700ba7df4a51f96198e</sys_scope>
+        <sys_update_name>sys_metadata_link_096f3775db2d5700ba7df4a51f961965</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-04-19 17:04:23</sys_updated_on>
+        <tablename>x_snc_ig_inspectio_inspection_report_ite</tablename>
+    </sys_metadata_link>
+</record_update>

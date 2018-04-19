@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>41b92fbddba95700ba7df4a51f961948</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_ig_inspectio_report_item_grade">
+    <x_snc_ig_inspectio_report_item_grade action="INSERT_OR_UPDATE">
+        <grade_description>Performance cannot be allowed to continue at this level and must be improved</grade_description>
+        <grade_name>UNACCEPTABLE</grade_name>
+        <grade_value>1</grade_value>
+        <number>REPITGRD0001004</number>
+        <sys_class_name>x_snc_ig_inspectio_report_item_grade</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-04-19 15:30:02</sys_created_on>
+        <sys_id>41b92fbddba95700ba7df4a51f961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-04-19 15:30:02</sys_updated_on>
+    </x_snc_ig_inspectio_report_item_grade>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-04-19 17:05:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2d9ff775db2d5700ba7df4a51f9619e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UNACCEPTABLE</sys_name>
+        <sys_package display_value="IG-Inspection Manager" source="x_snc_ig_inspectio">17f88b3ddb295700ba7df4a51f96198e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IG-Inspection Manager">17f88b3ddb295700ba7df4a51f96198e</sys_scope>
+        <sys_update_name>sys_metadata_link_2d9ff775db2d5700ba7df4a51f9619e3</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-04-19 17:05:14</sys_updated_on>
+        <tablename>x_snc_ig_inspectio_report_item_grade</tablename>
+    </sys_metadata_link>
+</record_update>

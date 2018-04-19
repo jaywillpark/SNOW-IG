@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="James Nyika: 04-19-2018 12:27:23">3a373f7ddbe95700ba7df4a51f9619ab</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-04-19 16:28:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>32373f7ddbe95700ba7df4a51f9619ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3a373f7ddbe95700ba7df4a51f9619ab</sys_name>
+        <sys_package display_value="IG-Inspection Manager" source="x_snc_ig_inspectio">17f88b3ddb295700ba7df4a51f96198e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IG-Inspection Manager">17f88b3ddb295700ba7df4a51f96198e</sys_scope>
+        <sys_update_name>sys_report_users_groups_32373f7ddbe95700ba7df4a51f9619ac</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-04-19 16:28:43</sys_updated_on>
+        <user_id display_value="James Nyika">6b7296f813ea9200dbeab8304244b0c9</user_id>
+    </sys_report_users_groups>
+</record_update>

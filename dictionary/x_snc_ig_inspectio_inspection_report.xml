@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Inspection Report" max_length="40" name="x_snc_ig_inspectio_inspection_report" type="collection">
+        <element label="Inspection Stage" max_length="40" name="inspection_stage" reference="x_snc_ig_inspectio_inspection_stage" type="reference"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Summary" max_length="5000" name="summary" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Target Command" max_length="100" name="target_command" type="string"/>
+        <element display="true" label="Title" max_length="500" name="title" type="string"/>
+        <element label="Year" max_length="32" name="year" reference="fiscal_period" type="reference"/>
+        <index name="index">
+            <element name="year"/>
+        </index>
     </element>
 </database>

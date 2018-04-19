@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Inspection Pre-Work Task" max_length="40" name="x_snc_ig_inspectio_inspection_pre_work_task" type="collection">
+        <element label="Inspection" max_length="32" name="inspection" reference="x_snc_ig_inspectio_inspection_report" type="reference"/>
+    </element>
+</database>
